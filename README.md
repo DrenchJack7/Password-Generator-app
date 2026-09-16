@@ -1,5 +1,8 @@
 # SecureGen
-Password-generating app
+# Cryptographic-Password-Generator
+
+-- Project Purpose --
+
 I built this because I got tired of using "Password123!" for everything. SecureGen is a small Python tool (command-line and GUI versions) that spits out strong, random passwords in a couple of seconds.
 
 -- What it does --
